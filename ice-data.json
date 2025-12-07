@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "surname": "Іваненко",
+      "name": "Іван",
+      "birthdate": "15.06.2007",
+      "skills": "JavaScript, HTML, CSS",
+      "image": "https://previews.123rf.com/images/sylv1rob1/sylv1rob11711/sylv1rob1171100475/90001395-smiling-teen-boy-14-16-year-old-having-fun-outdoors-looking-at-camera-teenagerhood-positive-mood.jpg",
+      "id": "1"
+    },
+    {
+      "surname": "Петренко",
+      "name": "Марія",
+      "birthdate": "22.03.2007",
+      "skills": "Python, Data Analysis",
+      "image": "https://previews.123rf.com/images/photolight2/photolight22006/photolight2200600632/149153740-portrait-of-high-school-student-girl-teenager-17-years-old-outdoor-in-white-t-shirt-with-tie.jpg",
+      "id": "2"
+    },
+    {
+      "surname": "Коваленко",
+      "name": "Олег",
+      "birthdate": "10.11.2006",
+      "skills": "C++, Unity",
+      "image": "https://cdn6.dissolve.com/p/D25_70_654/D25_70_654_1200.jpg",
+      "id": "3"
+    },
+    {
+      "surname": "Шевченко",
+      "name": "Анастасія",
+      "birthdate": "05.05.2007",
+      "skills": "Graphic Design, Photoshop",
+      "image": "https://i0.wp.com/madeinapinch.com/wp-content/uploads/2022/08/High-school-girl-with-a-backpack.jpg?fit=1999%2C1333&ssl=1",
+      "id": "4"
+    },
+    {
+      "surname": "Бондаренко",
+      "name": "Дмитро",
+      "birthdate": "18.01.2006",
+      "skills": "React, Node.js",
+      "image": "https://previews.123rf.com/images/morrowlight21/morrowlight212007/morrowlight21200700118/151045410-happy-smiling-teen-boy-15-17-year-old-making-selfie-photo-with-smart-phone-over-green-nature.jpg",
+      "id": "5"
+    },
+    {
+      "surname": "Гнатенко",
+      "name": "Софія",
+      "birthdate": "30.08.2007",
+      "skills": "English, Public Speaking",
+      "image": "https://cbx-prod.b-cdn.net/COLOURBOX60251507.jpg?height=800&quality=70&width=800",
+      "id": "6"
+    },
+    {
+      "surname": "Мельник",
+      "name": "Ілля",
+      "birthdate": "12.02.2007",
+      "skills": "3D Modeling, Blender",
+      "image": "https://previews.123rf.com/images/francisgonsa/francisgonsa2001/francisgonsa200100053/139793987-close-up-of-18-year-old-spanish-girl-vertical-shot-with-natural-light.jpg",
+      "id": "7"
+    },
+    {
+      "surname": "Фок",
+      "name": "Микола",
+      "birthdate": "19.05.2008",
+      "skills": "it_frontend",
+      "image": "https://i.imgur.com/er7o07G.jpeg",
+      "id": "7592"
+    }
+  ]
+}
